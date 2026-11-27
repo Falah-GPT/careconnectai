@@ -1,0 +1,1 @@
+globalThis.CARECONNECT_GEMINI_KEY = "";
